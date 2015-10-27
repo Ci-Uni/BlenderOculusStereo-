@@ -1,0 +1,7 @@
+Cubo 25cm X 25cm X 25cm
+Parallasse zero 2m
+Max Parallasse Positiva 10m
+Max negativa senza violazione 20cm con oggetto in centro
+
+IOD=65mm
+FOV=90°
