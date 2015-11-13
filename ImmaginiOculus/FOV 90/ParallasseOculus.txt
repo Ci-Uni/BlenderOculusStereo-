@@ -1,0 +1,17 @@
+Cubo 25cm X 25cm X 25cm
+FOV=90°
+
+IOD=75mm Parallasse zero 2.10m Max Parallasse Positiva ??? Max negativa (senza tagliare il cubo attraverso muovendo la testa) 20cm
+
+IOD=65mm Parallasse zero 2m Max Parallasse Positiva ??? Max negativa 20cm con oggetto in centro
+
+IOD=55mm Parallasse zero 1.6m Max Parallasse Positiva ??? Max negativa 20cm con oggetto in centro
+
+
+
+
+
+
+
+
+
