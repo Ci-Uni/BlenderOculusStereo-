@@ -1,5 +1,5 @@
 Cubo 25cm X 25cm X 25cm
-Parallasse zero 2.10m
+Parallasse zero 2.20m
 
 Max Parallasse Positiva 10m
 Max negativa senza tagliare il cubo attraverso muovendo la testa 20cm
